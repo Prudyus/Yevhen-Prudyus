@@ -1,6 +1,3 @@
-# Yevhen-Prudyus
-DevOps / Cloud Engineer | AWS • Terraform • Kubernetes • CI/CD
-
 <h1 align="center">Hi, I'm Yevhen Prudyus 👋</h1>
 <h3 align="center">DevOps / Cloud Engineer (AWS) | Terraform • Kubernetes • CI/CD • Observability</h3>
 
