@@ -29,30 +29,10 @@
 
 ## 🚀 Featured Projects
 
-### ☁️ AWS + Terraform (IaC)
 | Project | Description |
-|---|---|
-| [aws-multi-env-platform](https://github.com/Yevhen-Prudyus/aws-multi-env-platform) | Multi-account AWS landing zone + CI/CD for Terraform |
-| [aws-eks-gitops](https://github.com/Yevhen-Prudyus/aws-eks-gitops) | EKS + GitOps (Argo CD) + canary/rollback |
-
-### ⚙️ Kubernetes + Platform Engineering
-| Project | Description |
-|---|---|
-| [k8s-platform-toolkit](https://github.com/Yevhen-Prudyus/k8s-platform-toolkit) | Ingress, cert-manager, external-dns, secrets, policies |
-| [sre-observability-stack](https://github.com/Yevhen-Prudyus/sre-observability-stack) | Prometheus / Grafana / Loki / Tempo + alerting playbooks |
-
-### 🔐 Security / Reliability
-| Project | Description |
-|---|---|
-| [cloud-security-guardrails](https://github.com/Yevhen-Prudyus/cloud-security-guardrails) | IAM least privilege, SCP/Config rules, security baselines |
-| [chaos-game-days](https://github.com/Yevhen-Prudyus/chaos-game-days) | Failure scenarios, runbooks, incident simulations |
-
-### 🧩 Real Apps (End-to-End DevOps)
-| Project | Description |
-|---|---|
-| [microservices-demo](https://github.com/Yevhen-Prudyus/microservices-demo) | 3 services + queue + DB + CI/CD + blue/green |
-| [serverless-event-pipeline](https://github.com/Yevhen-Prudyus/serverless-event-pipeline) | Event-driven Lambda + SQS/SNS + IaC + tests |
-
+|---------|--------------|
+| [aws-3tier-web-app](https://github.com/Prudyus/aws-3tier-web-app) | Classic 3-tier AWS web architecture (VPC, ALB, Auto Scaling, Aurora MySQL) — built and documented during the Silver Lining SysOps Fellowship (AWS Internship) |
+| [Module-Linux-Networking](https://github.com/Prudyus/Module-Linux-Networking) | EPAM University Programs DevOps course — Linux networking module |
 ---
 
 ## 📊 GitHub Stats
